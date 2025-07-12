@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+class Unaryexp
+{
+    public static void main(String args[])
+    {
+        Scanner sn = new Scanner(System.in);
+        System.out.println("Enter 
+
+int a = sn.nextInt();
+         int b = sn.nextInt();
+        int x=(a>b)?a:b;
+ System.out.println(x+"is  greater");
+
+    }
+}

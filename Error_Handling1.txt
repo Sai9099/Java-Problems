@@ -1,0 +1,17 @@
+class Error_Handling1 {
+    public static void main(String args[]) {
+        int i, j, k1, k2;
+        i = 10;
+        j = 0; 
+        
+        try {
+            k1 = i / j;
+            System.out.println("k1: " + k1); 
+        } catch (ArithmeticException e) {
+            System.out.println("Error: Division by zero is not allowed.");
+        }
+
+        k2 = i + j; 
+        System.out.println("k2: " + k2); 
+    }
+}

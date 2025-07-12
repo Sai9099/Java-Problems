@@ -1,0 +1,33 @@
+if else examples
+1 write a program to print greater value between two num 
+2 write a program to cheak give is leap year or not 
+3 to cheak given person age is cast  vote or not 
+
+
+if else if :
+1 write a program to accept temperature form the user and print a proper message based on the below con
+case1 temperature <0 then print freezing weather
+case2 :temperature >0,<10 very cold weather 
+case 3:temerapure <10 <20 cold weather 
+case 4 : temp >20 <30 normal weather 
+case 5 temp >30 <40 hot weather
+
+2. write a program to calculate power bill based on below con
+case 1 units less than 50 per unit charge =0.5p
+case 2 for next 100 units per unit charge 1 rupess
+for next 100 units unit charge =1.25
+above 50 units per unit charge =1.50paise
+and add 20% extra charge total bill
+
+
+1 write a program to cheak given num is automerphic or not 
+2 write a program to count the num of digits in the number
+3 write a program to find the diff bw min digit and max digit in the given num
+4 write a program to  cheak given num is strong num or not(sum of each digit factoral is e)
+5 write a program to print prime num with in the given range
+
+
+1 write a program to print Armstrong number with in the given numbers (153=1^3+5^3+3^3)
+
+
+1 write a program of the class pen 
